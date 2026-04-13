@@ -6,7 +6,7 @@ I am a physicist working in academia with a deep interest in Data Science, Machi
 
 🚀 Featured Projects
 
-🚲 [Cyclistic: Bike-Share Marketing Analysis]((https://github.com/norquip/Cyclistic-Business-Insight)
+## 🚲 [Cyclistic: Bike-Share Marketing Analysis](https://github.com/norquip/Cyclistic-Business-Insight)
 
 Problem: Identifying behavioral differences between annual members and casual riders to increase membership conversions.
 
@@ -14,7 +14,7 @@ Stack: R, Tidyverse, ggplot2, Lubridate.
 
 Key Achievement: Processed 12 months of historical data to deliver actionable marketing recommendations.
 
-💧 [Water Potability Classification](https://github.com/norquip/Water-Potbility-Classification-SVM)
+## 💧 [Water Potability Classification](https://github.com/norquip/Water-Potbility-Classification-SVM)
 
 Problem: Predicting water safety based on chemical properties using Machine Learning.
 

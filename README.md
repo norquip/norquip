@@ -1,6 +1,6 @@
 ## Hi there, I'm Norma Quiroz! 👋
 
-# Data Analyst & Analytics Specialist | Physicist in Academy
+#  PhD Physicist | Data Scientist | AI Engineer (Deep Learning)
 
 I am a physicist working in academia with a deep interest in Data Science, Machine Learning, and Deep Learning. I focus on extracting meaningful insights from data to drive informed decision-making.
 

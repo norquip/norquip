@@ -4,9 +4,9 @@
 
 I am a physicist working in academia with a deep interest in Data Science, Machine Learning, and Deep Learning. I focus on extracting meaningful insights from data to drive informed decision-making.
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🚲 Cyclistic Business Insights
+### 🚲 Cyclistic Business Insights
 🔗 See project: [Cyclistic: Bike-Share Marketing Analysis](https://github.com/norquip/Cyclistic-Business-Insight)
 
 Problem: Identifying behavioral differences between annual members and casual riders to increase membership conversions.
@@ -26,7 +26,7 @@ Key Achievement: Processed 12 months of historical data to deliver actionable ma
 
 
 
-## 💧 Water Potability Classification
+### 💧 Water Potability Classification
 
 🔗  See project: [Water Potability Classification](https://github.com/norquip/Water-Potability-Classification/blob/main/notebooks/Water-Potability-Classification-SVM-RF.ipynb)
 
@@ -62,19 +62,19 @@ Stack: Python, Scikit-learn, SVM (RBF/Linear), Random Forest.
 
 
 
+### 🔭 Current Focus
+
+- Time series analysis and nonlinearity  
+- Learning topological data analysis (TDA)  
 
 
-
-📫 Contact me: 
+###📫 Contact me: 
 
 LinkedIn: www.linkedin.com/in/norma-quiroz-684b86314
 
 Email: norquip25@gmail.com
 
-## 🔭 Current Focus
 
-- Time series analysis and nonlinearity  
-- Learning topological data analysis (TDA)  
 
 
 

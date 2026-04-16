@@ -7,47 +7,21 @@ I am a physicist working in academia with a deep interest in Data Science, Machi
 ## 🚀 Featured Projects
 
 ### 🚲 Cyclistic Business Insights
-🔗 See project: [Cyclistic: Bike-Share Marketing Analysis](https://github.com/norquip/Cyclistic-Business-Insight)
 
-Problem: Identifying behavioral differences between annual members and casual riders to increase membership conversions.
+Data analysis in R to identify behavioral patterns and support marketing strategies.
+🔗 Project link:  [Cyclistic: Bike-Share Marketing Analysis](https://github.com/norquip/Cyclistic-Business-Insight)
+📊 Visual Summary: [Poster](https://github.com/norquip/Cyclistic-Business-Insight/blob/main/Visual_Summary.pdf)
 
-- Performed data cleaning and exploratory data analysis in R  
-- Analyzed usage patterns across days, seasons, and user types  
-- Identified key behavioral differences between casual riders and members  
 
- Key insights:
-- Casual riders show higher activity on weekends, indicating leisure usage  
-- Members demonstrate consistent usage throughout the week, suggesting commuting behavior  
-- Demand peaks in August, highlighting seasonal trends  
-
-Stack: R, Tidyverse, ggplot2, Lubridate.
-
-Key Achievement: Processed 12 months of historical data to deliver actionable marketing recommendations.
 
 ---
 
 ### 💧 Water Potability Classification
 
-🔗  See project: [Water Potability Classification](https://github.com/norquip/Water-Potability-Classification/blob/main/notebooks/Water-Potability-Classification-SVM-RF.ipynb)
-
-Problem: Predict water safety based on chemical and physical properties using Machine Learning.
-
-- Performed EDA and analyzed feature distributions  
-- Handled outliers using IQR capping  
-- Imputed missing values using k-Nearest Neighbors (kNN)  
-
-Modeling: 
-- Implemented SVM (Linear & RBF) with RobustScaler to handle feature variability  
-- Applied Random Forest as a scaling-independent baseline 
+Machine learning project comparing SVM and Random Forest on imbalanced data.
 
 
-Key result: Random Forest model performed better  than the SVM model, achieving a recall of 0.80 for non-potable water and 0.46 for potable water, highlighting the difficulty of detecting safe water in overlapping and imbalanced data.
-
-💡 Insights:  Class imbalance and feature overlap significantly reduce model performance on the minority class, leading to biased predictions.
-
-
-
-Stack: Python, Scikit-learn, SVM (RBF/Linear), Random Forest.
+🔗  Project link: [Water Potability Classification](https://github.com/norquip/Water-Potability-Classification)
 
 
 ---
@@ -57,7 +31,7 @@ Stack: Python, Scikit-learn, SVM (RBF/Linear), Random Forest.
 
 Deep learning model for image classification using convolutional neural networks.
 
-🔗 https://github.com/your-repo
+🔗 [Daisy-Sunflower](https://github.com/norquip/Daisy-Sunflower-Classification-CNN-PyTorch)
  
 
 

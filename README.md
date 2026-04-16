@@ -14,7 +14,7 @@ Stack: R, Tidyverse, ggplot2, Lubridate.
 
 Key Achievement: Processed 12 months of historical data to deliver actionable marketing recommendations.
 
-## 💧 [Water Potability Classification](https://github.com/norquip/Water-Potbility-Classification-SVM)
+## 💧 [Water Potability Classification](https://github.com/norquip/Water-Potability-Classification/blob/main/notebooks/Water-Potability-Classification-SVM-RF.ipynb)
 
 Problem: Predicting water safety based on chemical and physical properties using Machine Learning.
 

@@ -10,6 +10,16 @@ I am a physicist working in academia with a deep interest in Data Science, Machi
 
 Problem: Identifying behavioral differences between annual members and casual riders to increase membership conversions.
 
+In this project:
+- Performed data cleaning and exploratory data analysis in R  
+- Analyzed usage patterns across days, seasons, and user types  
+- Identified key behavioral differences between casual riders and members  
+
+ Key insights:
+- Casual riders show higher activity on weekends, indicating leisure usage  
+- Members demonstrate consistent usage throughout the week, suggesting commuting behavior  
+- Demand peaks in August, highlighting seasonal trends  
+
 Stack: R, Tidyverse, ggplot2, Lubridate.
 
 Key Achievement: Processed 12 months of historical data to deliver actionable marketing recommendations.

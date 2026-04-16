@@ -24,7 +24,7 @@ Stack: R, Tidyverse, ggplot2, Lubridate.
 
 Key Achievement: Processed 12 months of historical data to deliver actionable marketing recommendations.
 
-
+---
 
 ### 💧 Water Potability Classification
 
@@ -35,8 +35,7 @@ Problem: Predict water safety based on chemical and physical properties using Ma
 - Performed EDA and analyzed feature distributions  
 - Handled outliers using IQR capping  
 - Imputed missing values using k-Nearest Neighbors (kNN)  
-
-For modeling:
+Modeling: 
 - Implemented SVM (Linear & RBF) with RobustScaler to handle feature variability  
 - Applied Random Forest as a scaling-independent baseline 
 
@@ -50,7 +49,7 @@ Key result: Random Forest model performed better  than the SVM model, achieving 
 Stack: Python, Scikit-learn, SVM (RBF/Linear), Random Forest.
 
 
-
+---
 
 
 
@@ -67,7 +66,7 @@ Stack: Python, Scikit-learn, SVM (RBF/Linear), Random Forest.
 - Time series analysis and nonlinearity  
 - Learning topological data analysis (TDA)  
 
-
+---
 ###📫 Contact me: 
 
 LinkedIn: www.linkedin.com/in/norma-quiroz-684b86314

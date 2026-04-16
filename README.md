@@ -16,54 +16,55 @@ Key Achievement: Processed 12 months of historical data to deliver actionable ma
 
 ## 💧 [Water Potability Classification](https://github.com/norquip/Water-Potbility-Classification-SVM)
 
-Problem: Predicting water safety based on chemical properties using Machine Learning.
+Problem: Predicting water safety based on chemical and physical properties using Machine Learning.
 
 Stack: Python, Scikit-learn, SVM (RBF/Linear), Random Forest.
 
-Key Achievement: Compared different classification models and implemented robust scaling and KNN imputation for missing data.
 
-🛠️ Technical Toolbox
+In this project:
+- Performed EDA and analyzed feature distributions  
+- Handled outliers using IQR capping  
+- Imputed missing values using k-Nearest Neighbors (kNN)  
 
-Category
+For modeling:
+- Implemented SVM (Linear & RBF) with RobustScaler to handle feature variability  
+- Applied Random Forest as a scaling-independent baseline 
 
-Tools & Technologies
+Key Achievement: Built and compared different classification models. 
 
-Languages
-
-Python, R, SQL
-
-Data Science
-
-Pandas, NumPy, Scikit-Learn, Tidyverse
-
-Deep Learning
-
-Neural Networks, Deep Learning Labs
-
-Visualization
-
-Matplotlib, Seaborn, ggplot2
-
-Tools
-
-Git, GitHub, Jupyter Notebooks, Kaggle
-
-📈 GitHub Stats
-
-📫 Let's Connect
-
-LinkedIn: linkedin.com/in/your-profile
-
-Email: nequirozp@gmail.com
+Key result: Random Forest model performed better  than the SVM model, achieving a recall of 0.80 for non-potable water and 0.46 for potable water, highlighting the difficulty of detecting safe water in overlapping and imbalanced data.
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💡 Insight:  This project helped me understand that class imbalance and feature overlap significantly reduce model performance on the minority class, leading to biased predictions. 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+📫 Contact me: 
+
+LinkedIn: www.linkedin.com/in/norma-quiroz-684b86314
+
+Email: norquip25@gmail.com
+
+
+
+- 🔭 I’m currently working on time series and nonlinearity.
+- 🌱 I’m currently learning topological data analysis.
+- 🤔 I’m looking for help with time series and topological data analysis
+  
 -->

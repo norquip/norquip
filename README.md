@@ -10,8 +10,8 @@ I am a physicist working in academia with a strong interest in Data Science, Mac
 ### 🚲 Cyclistic Business Insights
 Data analysis in R to identify behavioral patterns and support marketing strategies.  
 
-🔗 [View Project](https://github.com/norquip/Cyclistic-Case-Study-R)  
-📊 [Poster](your-poster-link)
+🔗 [View Project](https://github.com/norquip/Cyclistic-Business-Insight)  
+📊 [Poster](https://github.com/norquip/Cyclistic-Business-Insight/blob/main/Visual_Summary.pdf)
 
 ---
 
@@ -34,9 +34,9 @@ Deep learning model for image classification using convolutional neural networks
 
 Retrieval-augmented system for querying documents using LLMs.
 
-🔗 GitHub: your-repo  
-🔗 Demo: your-huggingface-link
-
+🔗 [View Project](https://github.com/norquip/RAG-PDF-Chatbot-LangChain-Llama3/tree/main)
+🔗 [Demo-huggingface-link](https://huggingface.co/spaces/norquip/my_pdf_chatbot)
+🔍 [Visual-demo-image](https://github.com/norquip/RAG-PDF-Chatbot-LangChain-Llama3/blob/main/my_PDF_Chatbot.png)
 ---
 
 ## 🔭 Current Focus

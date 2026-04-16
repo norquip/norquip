@@ -35,7 +35,9 @@ Deep learning model for image classification using convolutional neural networks
 Retrieval-augmented system for querying documents using LLMs.
 
 🔗 [View Project](https://github.com/norquip/RAG-PDF-Chatbot-LangChain-Llama3/tree/main)
+
 🔗 [Demo-huggingface-link](https://huggingface.co/spaces/norquip/my_pdf_chatbot)
+
 🔍 [Visual-demo-image](https://github.com/norquip/RAG-PDF-Chatbot-LangChain-Llama3/blob/main/my_PDF_Chatbot.png)
 ---
 

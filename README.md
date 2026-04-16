@@ -35,16 +35,17 @@ Problem: Predict water safety based on chemical and physical properties using Ma
 - Performed EDA and analyzed feature distributions  
 - Handled outliers using IQR capping  
 - Imputed missing values using k-Nearest Neighbors (kNN)  
+
 Modeling: 
 - Implemented SVM (Linear & RBF) with RobustScaler to handle feature variability  
 - Applied Random Forest as a scaling-independent baseline 
 
-Key Achievement: Built and compared different classification models. 
 
 Key result: Random Forest model performed better  than the SVM model, achieving a recall of 0.80 for non-potable water and 0.46 for potable water, highlighting the difficulty of detecting safe water in overlapping and imbalanced data.
 
+💡 Insights:  Class imbalance and feature overlap significantly reduce model performance on the minority class, leading to biased predictions.
 
-💡 Insight:  This project helped me understand that class imbalance and feature overlap significantly reduce model performance on the minority class, leading to biased predictions. 
+
 
 Stack: Python, Scikit-learn, SVM (RBF/Linear), Random Forest.
 

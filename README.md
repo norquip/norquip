@@ -39,6 +39,8 @@ Retrieval-augmented system for querying documents using LLMs.
 🔗 [Demo-huggingface-link](https://huggingface.co/spaces/norquip/my_pdf_chatbot)
 
 🔍 [Visual-demo-image](https://github.com/norquip/RAG-PDF-Chatbot-LangChain-Llama3/blob/main/my_PDF_Chatbot.png)
+
+
 ---
 
 ## 🔭 Current Focus

@@ -3,7 +3,7 @@
 #  PhD Physicist | Data Scientist | AI Engineer (Deep Learning)
 
 I am a physicist working in academia with a deep interest in Data Science, Machine Learning, and Deep Learning. I focus on extracting meaningful insights from data to drive informed decision-making.
----
+
 ## 🚀 Featured Projects
 
 ---
@@ -15,7 +15,7 @@ Data analysis in R to identify behavioral patterns and support marketing strateg
 
 📊 Visual Summary: [Poster](https://github.com/norquip/Cyclistic-Business-Insight/blob/main/Visual_Summary.pdf)
 
-
+---
 
 ### 💧 Water Potability Classification
 
@@ -24,9 +24,7 @@ Machine learning project comparing SVM and Random Forest on imbalanced data.
 
 🔗  Project link: [Water Potability Classification](https://github.com/norquip/Water-Potability-Classification)
 
-
-
-
+---
 
 ### 🌼 Daisy vs Sunflower Classification (CNN - PyTorch)
 

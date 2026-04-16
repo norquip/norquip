@@ -53,7 +53,11 @@ Stack: Python, Scikit-learn, SVM (RBF/Linear), Random Forest.
 ---
 
 
+### 🌼 Daisy vs Sunflower Classification (CNN - PyTorch)
 
+Deep learning model for image classification using convolutional neural networks.
+
+🔗 https://github.com/your-repo
  
 
 

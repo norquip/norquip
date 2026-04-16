@@ -5,14 +5,14 @@
 I am a physicist working in academia with a deep interest in Data Science, Machine Learning, and Deep Learning. I focus on extracting meaningful insights from data to drive informed decision-making.
 
 ## 🚀 Featured Projects
-
+---
 ### 🚲 Cyclistic Business Insights
 
 Data analysis in R to identify behavioral patterns and support marketing strategies.
+
 🔗 Project link:  [Cyclistic: Bike-Share Marketing Analysis](https://github.com/norquip/Cyclistic-Business-Insight)
+
 📊 Visual Summary: [Poster](https://github.com/norquip/Cyclistic-Business-Insight/blob/main/Visual_Summary.pdf)
-
-
 
 ---
 
@@ -31,7 +31,7 @@ Machine learning project comparing SVM and Random Forest on imbalanced data.
 
 Deep learning model for image classification using convolutional neural networks.
 
-🔗 [Daisy-Sunflower](https://github.com/norquip/Daisy-Sunflower-Classification-CNN-PyTorch)
+🔗 Project link: [Daisy-Sunflower](https://github.com/norquip/Daisy-Sunflower-Classification-CNN-PyTorch)
  
 
 

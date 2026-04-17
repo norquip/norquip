@@ -43,12 +43,7 @@ Retrieval-augmented system for querying documents using LLMs.
 
 ---
 
-## 🔭 Current Focus
 
-- Time series analysis and nonlinearity  
-- Topological data analysis (TDA)  
-
----
 
 ## 📫 Contact
 

@@ -7,6 +7,15 @@ I am a physicist working in academia with a strong interest in Data Science, Mac
 
 ## 🚀 Featured Projects
 
+###  📈 Store Sales Sequential SSA
+
+Sequential Singular Spectrum Analysis (SSA) for trend extraction, oscillatory mode identification, and signal reconstruction.
+
+🔗 [View Project](https://github.com/norquip/Store-Sales-Sequential-SSA)
+
+🌐 [Live Demo](https://norquip-store-sales-sequential-ssa-appapp-tngklx.streamlit.app/)
+
+---
 ### 🚲 Cyclistic Business Insights
 Data analysis in R to identify behavioral patterns and support marketing strategies.  
 

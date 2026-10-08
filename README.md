@@ -10,6 +10,7 @@ I am a physicist working in academia with a strong interest in Data Science, Mac
 ###  📈 Store Sales Sequential SSA
 
 Two-stage Sequential SSA on daily retail sales, implemented from scratch in Python (no SSA libraries): extracts the long-term trend, then identifies a dominant weekly cycle (≈7 days), its harmonics (≈3.5 and ≈2.3 days), and longer oscillations (≈11-20 days). Reconstruction recovers the original series to numerical precision (~10⁻¹² error). Includes an interactive demo.
+
 🔗 [Code](https://github.com/norquip/Store-Sales-Sequential-SSA)
 
 🌐 [Live Streamlit_Demo](https://norquip-store-sales-sequential-ssa-appapp-tngklx.streamlit.app/)
@@ -18,7 +19,7 @@ Two-stage Sequential SSA on daily retail sales, implemented from scratch in Pyth
 ### 🚲 Cyclistic Business Insights
 Analysis of 5.7M+ Cyclistic bike-share rides in R: casual riders show longer rides, weekend-heavy and August-peaking usage, while annual members ride steadily through the week. Delivers targeted strategies to convert casual riders into members.
 
-🔗 [View Project_Code](https://github.com/norquip/Cyclistic-Business-Insight)  
+🔗 [View_Code](https://github.com/norquip/Cyclistic-Business-Insight)  
 📊 [Poster](https://github.com/norquip/Cyclistic-Business-Insight/blob/main/Visual_Summary.pdf)
 
 ---

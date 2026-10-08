@@ -42,7 +42,7 @@ CNN built in PyTorch to classify daisies vs. sunflowers: four convolutional bloc
 
 ### 🤖 RAG PDF Chatbot (LangChain + Llama 3)
 
-Retrieval-augmented system for querying documents using LLMs.
+End-to-end RAG system to query PDF documents in natural language, built with LangChain and Llama 3 (open-source). Retrieves relevant chunks and generates grounded answers. Live demo on Hugging Face.
 
 🔗 [View Project](https://github.com/norquip/RAG-PDF-Chatbot-LangChain-Llama3/tree/main)
 

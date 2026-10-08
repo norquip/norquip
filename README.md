@@ -7,13 +7,13 @@ I am a physicist working in academia with a strong interest in Data Science, Mac
 
 ## 🚀 Featured Projects
 
-### 🌋 Nonlinearity and determinism in tremor signals from the 2015 activity of Volcán de Colima, México (Journal of South American Earth Sciences, 2026)
+### 1) 🌋 Nonlinearity and determinism in tremor signals from the 2015 activity of Volcán de Colima, México (Journal of South American Earth Sciences, 2026)
 Nonlinear time-series analysis of volcanic tremor: evidence of determinism and nonlinearity in the source of some tremors, with chaotic behavior mostly linked to explosions and long-period (LP) seismic events. Attractor properties are similar to those reported at other volcanoes.
 
 🔗 [Paper](https://doi.org/10.1016/j.jsames.2026.106040)
 
 
-###  📈 Store Sales Sequential SSA
+### 2)   📈 Store Sales Sequential SSA
 
 Two-stage Sequential SSA on daily retail sales, implemented from scratch in Python (no SSA libraries): extracts the long-term trend, then identifies a dominant weekly cycle (≈7 days), its harmonics (≈3.5 and ≈2.3 days), and longer oscillations (≈11-20 days). Reconstruction recovers the original series to numerical precision (~10⁻¹² error). Includes an interactive demo.
 
@@ -22,7 +22,7 @@ Two-stage Sequential SSA on daily retail sales, implemented from scratch in Pyth
 🌐 [Live Streamlit_Demo](https://norquip-store-sales-sequential-ssa-appapp-tngklx.streamlit.app/)
 
 ---
-### 🚲 Cyclistic Business Insights
+### 3) 🚲 Cyclistic Business Insights
 Analysis of 5.7M+ Cyclistic bike-share rides in R: casual riders show longer rides, weekend-heavy and August-peaking usage, while annual members ride steadily through the week. Delivers targeted strategies to convert casual riders into members.
 
 🔗 [View_Code](https://github.com/norquip/Cyclistic-Business-Insight)  
@@ -30,7 +30,7 @@ Analysis of 5.7M+ Cyclistic bike-share rides in R: casual riders show longer rid
 
 ---
 
-### 💧 Water Potability Classification
+### 4) 💧 Water Potability Classification
 SVM (linear and RBF) vs. Random Forest with Python for water potability prediction on 3,276 samples with 9 physicochemical features. Random Forest, tuned for F1, improved potable-water recall from 0.33 to 0.46 and reached 0.80 recall on non-potable water. 
 Analysis of why class imbalance and class overlap limit performance.
 
@@ -38,7 +38,7 @@ Analysis of why class imbalance and class overlap limit performance.
 
 ---
 
-### 🌼 Daisy vs Sunflower Classification (CNN - PyTorch)
+### 5) 🌼 Daisy vs Sunflower Classification (CNN - PyTorch)
 CNN built in PyTorch to classify daisies vs. sunflowers: four convolutional blocks (32→256 channels) with BatchNorm, reaching ~97-98% accuracy. Compares Adam vs. SGD and learning rates, and shows how data augmentation reduces misclassification.
 
 🔗 [Code](https://github.com/norquip/Daisy-Sunflower-Classification-CNN-PyTorch)  
@@ -46,8 +46,7 @@ CNN built in PyTorch to classify daisies vs. sunflowers: four convolutional bloc
 
 ---
 
-### 🤖 RAG PDF Chatbot (LangChain + Llama 3)
-
+### 6) 🤖 RAG PDF Chatbot (LangChain + Llama 3)
 End-to-end RAG system to query PDF documents in natural language, built with LangChain and Llama 3 (open-source). Retrieves relevant chunks and generates grounded answers. Live demo on Hugging Face.
 
 🔗 [View Project](https://github.com/norquip/RAG-PDF-Chatbot-LangChain-Llama3/tree/main)

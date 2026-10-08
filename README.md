@@ -28,7 +28,7 @@ Part I: Fully connected neural network derived and implemented from scratch.  (P
 Part II studies how floating-point overflow and underflow in the Sigmoid affect the cost function
 
 
-🔗 [View_Code]()  
+🔗 [View_Code](https://github.com/norquip/my_machine_deep_learning_notebooks/tree/main/Lab_DNN_Scratch)  
 
 ---
 

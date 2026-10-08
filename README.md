@@ -12,9 +12,9 @@ Nonlinear time-series analysis of volcanic tremor: evidence of determinism and n
 
 🔗 [Paper](https://doi.org/10.1016/j.jsames.2026.106040)
 
+---
 
-### 2)   📈 Store Sales Sequential SSA
-
+### 2)   📈 Store Sales Sequential SSA (Decomposition of time-series)
 Two-stage Sequential SSA on daily retail sales, implemented from scratch in Python (no SSA libraries): extracts the long-term trend, then identifies a dominant weekly cycle (≈7 days), its harmonics (≈3.5 and ≈2.3 days), and longer oscillations (≈11-20 days). Reconstruction recovers the original series to numerical precision (~10⁻¹² error). Includes an interactive demo.
 
 🔗 [Code](https://github.com/norquip/Store-Sales-Sequential-SSA)
@@ -22,8 +22,8 @@ Two-stage Sequential SSA on daily retail sales, implemented from scratch in Pyth
 🌐 [Live Streamlit_Demo](https://norquip-store-sales-sequential-ssa-appapp-tngklx.streamlit.app/)
 
 ---
-### 3) Fully Conneted DNN From Scratch
-Part I: Fully connected neural network derived and implemented from scratch in PyTorch (tensor operations only, no high-level NN modules): forward and backward propagation derived with explicit index notation and validated by finite-difference gradient checking. 
+### 3) Fully Connected DNN From Scratch
+Part I: Fully connected neural network derived and implemented from scratch.  (PyTorch used for tensor operations only, no high-level NN modules): forward and backward propagation equations derived using index notation and validated by finite-difference gradient checking. 
 
 Part II studies how floating-point overflow and underflow in the Sigmoid affect the cost function
 

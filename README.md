@@ -9,12 +9,10 @@ I am a physicist working in academia with a strong interest in Data Science, Mac
 
 ###  📈 Store Sales Sequential SSA
 
-Two-stage Sequential SSA on daily retail sales: extracts the long-term trend, then identifies a dominant weekly cycle (≈7 days), its harmonics (≈3.5 and ≈2.3 days), and longer oscillations (≈11-20 days). The reconstruction recovers the original series to numerical precision (~10⁻¹² error).
-Includes an interactive demo.
+Two-stage Sequential SSA on daily retail sales, implemented from scratch in Python (no SSA libraries): extracts the long-term trend, then identifies a dominant weekly cycle (≈7 days), its harmonics (≈3.5 and ≈2.3 days), and longer oscillations (≈11-20 days). Reconstruction recovers the original series to numerical precision (~10⁻¹² error). Includes an interactive demo.
+🔗 [Code](https://github.com/norquip/Store-Sales-Sequential-SSA)
 
-🔗 [View Project Code_from_Scratch_Python](https://github.com/norquip/Store-Sales-Sequential-SSA)
-
-🌐 [Live Demo](https://norquip-store-sales-sequential-ssa-appapp-tngklx.streamlit.app/)
+🌐 [Live Streamlit_Demo](https://norquip-store-sales-sequential-ssa-appapp-tngklx.streamlit.app/)
 
 ---
 ### 🚲 Cyclistic Business Insights

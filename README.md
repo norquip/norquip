@@ -22,11 +22,22 @@ Two-stage Sequential SSA on daily retail sales, implemented from scratch in Pyth
 🌐 [Live Streamlit_Demo](https://norquip-store-sales-sequential-ssa-appapp-tngklx.streamlit.app/)
 
 ---
-### 3) 🚲 Cyclistic Business Insights
-Analysis of 5.7M+ Cyclistic bike-share rides in R: casual riders show longer rides, weekend-heavy and August-peaking usage, while annual members ride steadily through the week. Delivers targeted strategies to convert casual riders into members.
+### 3) Fully Conneted DNN From Scratch
+Part I: Fully connected neural network derived and implemented from scratch in PyTorch (tensor operations only, no high-level NN modules): forward and backward propagation derived with explicit index notation and validated by finite-difference gradient checking. 
 
-🔗 [View_Code](https://github.com/norquip/Cyclistic-Business-Insight)  
-📊 [Poster](https://github.com/norquip/Cyclistic-Business-Insight/blob/main/Visual_Summary.pdf)
+Part II studies how floating-point overflow and underflow in the Sigmoid affect the cost function
+
+
+🔗 [View_Code]()  
+
+---
+
+### 4) 🌼 Daisy vs Sunflower Classification (CNN - PyTorch)
+CNN built in PyTorch to classify daisies vs. sunflowers: four convolutional blocks (32→256 channels) with BatchNorm, reaching ~97-98% accuracy. Compares Adam vs. SGD and learning rates, and shows how data augmentation reduces misclassification.
+
+🔗 [Code](https://github.com/norquip/Daisy-Sunflower-Classification-CNN-PyTorch)  
+📊 [Poster](your-poster-link)
+
 
 ---
 
@@ -35,14 +46,6 @@ SVM (linear and RBF) vs. Random Forest with Python for water potability predicti
 Analysis of why class imbalance and class overlap limit performance.
 
 🔗 [Code](https://github.com/norquip/Water-Potbility-Classification-SVM)
-
----
-
-### 5) 🌼 Daisy vs Sunflower Classification (CNN - PyTorch)
-CNN built in PyTorch to classify daisies vs. sunflowers: four convolutional blocks (32→256 channels) with BatchNorm, reaching ~97-98% accuracy. Compares Adam vs. SGD and learning rates, and shows how data augmentation reduces misclassification.
-
-🔗 [Code](https://github.com/norquip/Daisy-Sunflower-Classification-CNN-PyTorch)  
-📊 [Poster](your-poster-link)
 
 ---
 

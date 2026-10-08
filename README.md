@@ -25,7 +25,7 @@ Analysis of 5.7M+ Cyclistic bike-share rides in R: casual riders show longer rid
 ---
 
 ### 💧 Water Potability Classification
-SVM (linear and RBF) vs. Random Forest for water potability prediction on 3,276 samples with 9 physicochemical features. Random Forest, tuned for F1, improved potable-water recall from 0.33 to 0.46 and reached 0.80 recall on non-potable water. 
+SVM (linear and RBF) vs. Random Forest with Python for water potability prediction on 3,276 samples with 9 physicochemical features. Random Forest, tuned for F1, improved potable-water recall from 0.33 to 0.46 and reached 0.80 recall on non-potable water. 
 Analysis of why class imbalance and class overlap limit performance.
 
 🔗 [Code](https://github.com/norquip/Water-Potbility-Classification-SVM)
@@ -33,9 +33,9 @@ Analysis of why class imbalance and class overlap limit performance.
 ---
 
 ### 🌼 Daisy vs Sunflower Classification (CNN - PyTorch)
-Deep learning model for image classification using convolutional neural networks.  
+CNN built in PyTorch to classify daisies vs. sunflowers: four convolutional blocks (32→256 channels) with BatchNorm, reaching ~97-98% accuracy. Compares Adam vs. SGD and learning rates, and shows how data augmentation reduces misclassification.
 
-🔗 [View Project](https://github.com/norquip/Daisy-Sunflower-Classification-CNN-PyTorch)  
+🔗 [Code](https://github.com/norquip/Daisy-Sunflower-Classification-CNN-PyTorch)  
 📊 [Poster](your-poster-link)
 
 ---

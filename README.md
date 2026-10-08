@@ -25,9 +25,10 @@ Analysis of 5.7M+ Cyclistic bike-share rides in R: casual riders show longer rid
 ---
 
 ### 💧 Water Potability Classification
-Machine learning project comparing SVM and Random Forest on imbalanced data.  
+SVM (linear and RBF) vs. Random Forest for water potability prediction on 3,276 samples with 9 physicochemical features. Random Forest, tuned for F1, improved potable-water recall from 0.33 to 0.46 and reached 0.80 recall on non-potable water. 
+Analysis of why class imbalance and class overlap limit performance.
 
-🔗 [View Project](https://github.com/norquip/Water-Potbility-Classification-SVM)
+🔗 [Code](https://github.com/norquip/Water-Potbility-Classification-SVM)
 
 ---
 

@@ -9,9 +9,10 @@ I am a physicist working in academia with a strong interest in Data Science, Mac
 
 ###  📈 Store Sales Sequential SSA
 
-Sequential Singular Spectrum Analysis (SSA) for trend extraction, oscillatory mode identification, and signal reconstruction.
+Two-stage Sequential SSA on daily retail sales: extracts the long-term trend, then identifies a dominant weekly cycle (≈7 days), its harmonics (≈3.5 and ≈2.3 days) and longer oscillations (≈11-20 days). The reconstruction recovers the original series to numerical precision (~10⁻¹² error).
+Includes an interactive demo.
 
-🔗 [View Project](https://github.com/norquip/Store-Sales-Sequential-SSA)
+🔗 [View Project Code](https://github.com/norquip/Store-Sales-Sequential-SSA)
 
 🌐 [Live Demo](https://norquip-store-sales-sequential-ssa-appapp-tngklx.streamlit.app/)
 

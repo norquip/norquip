@@ -7,7 +7,7 @@ I am a physicist working in academia with a strong interest in Data Science, Mac
 
 ## 🚀 Featured Projects
 
-### Nonlinearity and determinism in tremor signals from the 2015 activity of Volcán de Colima, México (Journal of South American Earth Sciences, 2026)
+### 🌋 Nonlinearity and determinism in tremor signals from the 2015 activity of Volcán de Colima, México (Journal of South American Earth Sciences, 2026)
 Nonlinear time-series analysis of volcanic tremor: evidence of determinism and nonlinearity in the source of some tremors, with chaotic behavior mostly linked to explosions and long-period (LP) seismic events. Attractor properties are similar to those reported at other volcanoes.
 
 🔗 [Paper](https://doi.org/10.1016/j.jsames.2026.106040)
